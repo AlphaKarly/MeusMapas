@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa de localizacao</name>
+    <description/>
+    <NetworkLink>
+      <name>Mapa de localizacao</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1-ibQiZkp4ohxslNsQMeyV3wPWwC631Y]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
